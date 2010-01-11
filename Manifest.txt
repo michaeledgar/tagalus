@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/tagalus.rb
+lib/xmlstruct.rb
+test/test_tagalus.rb

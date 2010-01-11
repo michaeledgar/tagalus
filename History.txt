@@ -1,0 +1,7 @@
+=== 0.5.0 / 2009-03-26
+
+* 1st Release
+
+  * Full API access
+  * Swappable XML parsers
+
